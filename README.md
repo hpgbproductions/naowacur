@@ -1,5 +1,14 @@
 ![](img/thumb.png)
 
+### Folders
+
+- **32:** Source images (32px)
+- **ani:** Chibi animated cursors (32px)
+- **arrows32:** Standard arrow cursors (32px)
+- **arrows64:** Half-scale arrow cursors for use with larger cursor scales (64px)
+- **chara64:** Chibi static cursors (64px)
+- **img:** Thumbnail resources
+
 ### 32px/Animated Installation Type
 
 Recommended for low resolution displays.
